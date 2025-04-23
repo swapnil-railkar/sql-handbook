@@ -35,5 +35,5 @@ In 1986, the American National Standards Institute (ANSI) and the International 
 	SQL contains commands to specify beginning and ending of a transaction.
 - Embedded SQL and Dynamic SQL : 
 	Embedded and Dynamic SQL define how SQL statements can be embedded withing general purpose programming languages.
--  Authorization : 
+-  [[Authorization]] : 
 	The SQL DDL includes commands for specifying access rights to relations and views. 
